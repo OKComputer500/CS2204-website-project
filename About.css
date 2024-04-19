@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.maincontainer{
+    color: inherit;
+    background-color: #F5F5F5; 
+    margin: 0 auto;
+    width: 100%;
+}
+/* welcome */
+.welcome{
+    display: block;
+    border: 2px solid grey;
+    width: 80%;
+    background-color: #d6d7db;
+    margin: 10px 10% 10px 10%;
+    padding: 10px 10px;
+}
+caption{
+    text-align: center;
+    background-color: #d6d7db;
+    padding:5px 5px;
+    margin-bottom: 10px;
+}
+table{
+    width:80%;
+    margin: 10px 10%;
+    border-collapse: collapse;
+}
+table, th, td{
+    border: 1px solid black;
+}
+td, th{
+    text-align: center;
+    padding: 10px;
+}
+th{
+    background-color: #d6d7db;
+}
+tr{
+    background-color: #f2f2f2;
+}
+tr:hover{
+    background-color: #ffffff;
+}
+footer{
+    clear: both;
+    text-align: center;
+    background-color: #d6d7db;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

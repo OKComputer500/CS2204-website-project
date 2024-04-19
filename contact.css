@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.maincontainer{
+    color: inherit;
+    background-color: #F5F5F5; 
+    margin: 0 auto;
+    width: 100%;
+}
+.contact {
+    margin: 10px;
+    text-align: center;
+}
+table{
+    width: 80%;
+    margin: 10px 10%;
+    border-collapse: collapse;
+}
+tr, th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+th{
+    color: white;
+    background-color: black;
+}
